@@ -66,7 +66,10 @@ This project is licensed under the MIT License.
 Acknowledgments
 
 Special thanks to our group members:
+
 Kristian Karani Khayundi
+
 Kanyi Mwenda
+
 for their hard work and dedication.
 Thanks to our lecturer for providing guidance and support throughout the project.
