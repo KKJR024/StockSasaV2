@@ -67,9 +67,15 @@ Acknowledgments
 
 Special thanks to our group members:
 
-Kristian Karani Khayundi
+Kristian Karani(Kristal)
 
-Kanyi Mwenda
+Kanyi Mwenda(Bobby)
+
+Moses Mwai
+
+Tyrese 
+
+Allan Munjuri(Truant)
 
 for their hard work and dedication.
 
